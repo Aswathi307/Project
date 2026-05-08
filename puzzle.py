@@ -1,4 +1,4 @@
-# ==========================================
+# =========================================
 # ADVANCED 8 PUZZLE GAME - PROFESSIONAL VERSION
 # Features:
 # ✅ Modern UI
